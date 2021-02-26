@@ -33,8 +33,7 @@
 <tr>
 <th scope="row">Known&nbsp;for</th>
 <td>
-<div class="mw-collapsible mw-made-collapsible"><span class="mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-expanded" tabindex="0"><a class="mw-collapsible-text">hide</a></span>
-<div>
+
 <div><span class="nobold"><a href="https://en.wikipedia.org/wiki/Niels_Bohr#Physics">Physics contributions</a></span></div>
 </div>
 <ul class="mw-collapsible-content">
@@ -62,8 +61,7 @@
 <tr>
 <th scope="row">Awards</th>
 <td><span class="nowrap"><a title="Nobel Prize in Physics" href="https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics">Nobel Prize in Physics</a>&nbsp;(1922)</span>
-<div class="mw-collapsible mw-made-collapsible"><span class="mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-expanded" tabindex="0"><a class="mw-collapsible-text">hide</a></span>
-<div>
+
 <div><span class="nobold"><a href="https://en.wikipedia.org/wiki/Niels_Bohr#Accolades">more accolades</a></span></div>
 </div>
 <ul class="mw-collapsible-content">
